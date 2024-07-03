@@ -9,8 +9,6 @@
 ![workflow](workflow.png)
 - The user simply inputs their audio file into the web application and the application returns them text descriptions of the audio file (emotion, tempo and genre). The text description is then fed into the image generation model to generate an image.
 
-## 1.4. Video Demonstration
-![](Tech_Jam_Demo.mp4)
 
 # 2. Datasets
 ## 2.1. GTZAN dataset
