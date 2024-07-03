@@ -10,6 +10,7 @@
 - The user simply inputs their audio file into the web application and the application returns them text descriptions of the audio file (emotion, tempo and genre). The text description is then fed into the image generation model to generate an image.
 
 ## 1.4. Video Demonstration
+![](Tech_Jam_Demo.mp4)
 
 # 2. Datasets
 ## 2.1. GTZAN dataset
@@ -19,7 +20,9 @@
 - This dataset consists of 400 audio files from each genre as well as a csv file that describes the emotions evoked by each audio snippet. The emotions were curated from various users. 
 - The [link](https://www2.projects.science.uu.nl/memotion/emotifydata/) is provided.
 ## 2.3. Self-Labelled Dataset
-
+- Currently the fine tuned LoRA stable diffusion model utilises the MelBench dataset, but results were not satisfactory, thus utilising on custom dataset in progress.
+- Link to the Mel Bench dataset as well as the model it was made for can be found [here](https://schowdhury671.github.io/melfusion_cvpr2024/).
+  
 # 3. Models
 ## 3.1. Genre Classifier Model
 - This model uses the GTZAN dataset. 
