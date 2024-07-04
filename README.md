@@ -10,8 +10,8 @@
 - The user simply inputs their audio file into the web application and the application returns them text descriptions of the audio file (emotion, tempo and genre). The text description is then fed into the image generation model to generate an image.
 
 ## 1.4. Video Demonstration
-- Here is a video of the demonstration using the app. ![Link](https://youtu.be/9W3QUrCiz8A)
-- Here is the link to try it out for yourself. ![Link](https://huggingface.co/spaces/Monke64/TechJamM2I)
+- Here is a video of the demonstration using the app. [Link](https://youtu.be/9W3QUrCiz8A)
+- Here is the link to try it out for yourself. [Link](https://huggingface.co/spaces/Monke64/TechJamM2I)
 # 2. Datasets
 ## 2.1. GTZAN dataset
 - This dataset consists of 4 folders, genre_original,image_original, features_30_sec and features_3_sec. For the purposes of this project I used only the audio snippets from the genre_original folder.
