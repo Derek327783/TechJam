@@ -13,7 +13,7 @@
 - The user simply inputs their audio file into the web application and the application returns them text descriptions of the audio file (emotion, tempo and genre). The text description is then fed into the image generation model to generate an image.
 
 ## 1.4. Video Demonstration
-- Here is a video of the demonstration using the app. [Link](https://youtu.be/9W3QUrCiz8A)
+- Here is a video of the demonstration using the app. [Link](https://youtu.be/H1hO-zEY-0U)
 - Here is the link to try it out for yourself. [Link](https://huggingface.co/spaces/Monke64/TechJamM2I)
 # 2. Datasets
 ## 2.1. GTZAN dataset
