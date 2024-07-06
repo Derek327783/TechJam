@@ -1,3 +1,6 @@
+# 0. Updates
+- Currently the streamlit application is unable to serve the image generation model due to hardware limitations on the hugging face space, so to run the image generation model please use the file Image_Inference.ipynb file in a Google Colab setting.
+
 # 1. Project Scope
 ## 1.1. Category 
 - This project falls under track 2 (Inspiring creativity with generativeAI)  of the Tiktok Tech Jam 2024 competition.
